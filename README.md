@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Suraj Paul! 👋  <br>-💼  Software Project Trainee @ NIC Guwahati<br>- 🎓 MCA Student at Assam Engineering College  <br>- 💻 Passionate about Web & App Development (Flutter, MERN & Supabase)  <br>- 🚀 Interested in AI & Backend Development  <br>- 🔭 Currently working on an Attendance Management System  <br>- 🌍 From Silapathar, Dhemaji  <br>- 📫 Reach me at paulsuraj044@gmail.com<br>
+# Hi, I'm Suraj Paul! 👋  <br>-💼  Software Project Trainee @ NIC Guwahati<br>- 🎓 MCA Student at Assam Engineering College  <br>- 💻 Passionate about Web & App Development (Flutter, MERN & Supabase)  <br>- 🚀 Interested in AI & Backend Development  <br>- 🔭 Currently working on an Face & Geolocation based Attendance Management System  <br>- 🌍 From Silapathar, Dhemaji  <br>- 📫 Reach me at paulsuraj044@gmail.com<br>
 
 
 ## 🌐 Socials:
